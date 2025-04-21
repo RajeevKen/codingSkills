@@ -1,0 +1,21 @@
+{
+  "name": "javabasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeevKen/javabasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeevKen/javabasics/issues"
+  },
+  "homepage": "https://github.com/RajeevKen/javabasics#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.0"
+  }
+}
